@@ -35,8 +35,7 @@ You can reach out to me on the following places:
 - <a  href="https://twitter.com/@deevonstutter">Twitter</a>
 - <a href="https://t.me/deevonstutter">Telegram</a>
 
-And of course, 
-- <a href="mailto:deevonstutter@gmail.com">Email</a>
+And of course, email, which is in my profile description.
 
 Hope you enjoy perusing my barren profile :)
 

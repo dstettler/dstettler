@@ -1,9 +1,7 @@
 <span align="center">
-  <h3> Hi there 👋</h3>
-  </span>
-
-<span align="center">
   <h2> Whoa it's <em>that guy</em> </h2>
+  
+  <h3> Hi there 👋</h3>
   <img src="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/629460346993901578.gif"
        align="right">
 I'm Devon, a hobbyist game dev/computer person studying Computer Engineering at the University of Florida.

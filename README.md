@@ -3,7 +3,7 @@
   </span>
 
 <span align="center">
-  <h2> Whoa it's *that guy* </h2>
+  <h2> Whoa it's <em>that guy</em> </h2>
   <img src="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/629460346993901578.gif"
        align="right">
 I'm Devon, a hobbyist game dev/computer person studying Computer Engineering at the University of Florida.

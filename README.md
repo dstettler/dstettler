@@ -1,4 +1,4 @@
-<span style="text-align: center">
+<span align="center">
   <h3> Hi there 👋</h3>
   </span>
 
@@ -23,9 +23,14 @@ I've also done game dev work in Unreal Engine 4 and Unity as well, though those 
 
 <hr>
 
+## LINKS
+
+- <a href="https://gitlab.com/deevonstutter">GitLab</a>
+
 You can reach out to me on the following places:
-- <a href="skype:live:devon.stettler">Skype</a>
+- <a href="https://join.skype.com/invite/ts8iPg9Elvs8">Skype</a>
 - <a  href="https://twitter.com/@deevonstutter">Twitter</a>
+- <a href="https://t.me/deevonstutter">Telegram</a>
 
 And of course, 
 - <a href="mailto:deevonstutter@gmail.com">Email</a>

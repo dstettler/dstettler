@@ -40,6 +40,10 @@ Hope you enjoy perusing my barren profile :)
 <a href="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/F292BCFDBC8C87D4B4E24220285E007E82A5CE8C.asc">My PGP Key</a>
 (Note that the email for this is devon `.` stettler `@` tutanota `.` com)
 </span>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deevonstutter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **deevonstutter/deevonstutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -29,9 +29,7 @@ I've also done game dev work in Unreal Engine 4 and Unity as well, though those 
 - <a href="https://gitlab.com/deevonstutter">GitLab</a>
 
 You can reach out to me on the following places:
-- Discord: `アニメプロフィール画像人 0018`
-- <a href="https://join.skype.com/invite/ts8iPg9Elvs8">Skype</a>
-- <a  href="https://twitter.com/@deevonstutter">Twitter</a>
+  - <a href="https://join.skype.com/invite/ts8iPg9Elvs8">Skype</a>
 - <a href="https://t.me/deevonstutter">Telegram</a>
 
 And of course, email, which is in my profile description.

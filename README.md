@@ -1,8 +1,3 @@
-<span align="center">
-  <img src="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/629460346993901578.gif"
-       align="right">
-<h2> Whoa it's <em>that guy</em> </h2>
-  
   <h3> Hi there 👋</h3>
 
 I'm Devon, a hobbyist game dev/programmer/computer man studying Computer Science at the University of Florida.

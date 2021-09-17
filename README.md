@@ -21,7 +21,7 @@ I've also done game dev work in Unreal Engine 4 and Unity as well, though those 
 
 ## LINKS
 
-- <a href="https://gitlab.com/deevonstutter">GitLab</a>
+- <a href="https://gitlab.com/dstettler">GitLab</a>
 
 You can reach out to me on the following places:
   - <a href="https://join.skype.com/invite/ts8iPg9Elvs8">Skype</a>

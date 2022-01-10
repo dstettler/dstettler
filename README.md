@@ -32,6 +32,7 @@ And of course, email, which is in my profile description.
 Hope you enjoy perusing my barren profile :)
 
 <a href="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/F292BCFDBC8C87D4B4E24220285E007E82A5CE8C.asc">My (old) PGP Key</a>
+
 <a href="https://raw.githubusercontent.com/deevonstutter/deevonstutter/master/Devon_0x53C10974_public.asc">My New PGP Key</a>
 </span>
 <!--

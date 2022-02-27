@@ -24,7 +24,6 @@ I've also done game dev work in Unreal Engine 4 and Unity as well, though those 
 - <a href="https://gitlab.com/dstettler">GitLab</a>
 
 You can reach out to me on the following places:
-  - <a href="https://join.skype.com/invite/ts8iPg9Elvs8">Skype</a>
 - <a href="https://t.me/deevonstutter">Telegram</a>
 - <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a>
 

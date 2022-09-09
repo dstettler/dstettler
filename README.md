@@ -15,7 +15,7 @@ Some frameworks I have experience with:
 - Qt
 - GTK
 
-I've also done game dev work in Unreal Engine 4 and Unity as well, though those projects are less relevant here.
+I've also done game dev work in Unreal Engine 4/5 and Unity as well, though those projects are less relevant here.
 
 <hr>
 

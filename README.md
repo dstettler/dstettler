@@ -1,12 +1,13 @@
   <h3> Hi there 👋</h3>
 
-I'm Devon, a (mostly) hobbyist game dev/programmer/computer man studying Computer Science at the University of Florida.
+I'm Devon, a game dev/programmer/computer man studying Computer Science at the University of Florida.
 I don't usually push much of my stuff out publicly, but I have some interesting stuff in the works so I'll try to keep this
 up to date as best I can.
 
 Pronouns: He/Him 
 
 I primarily work in C++ and C#, but I have experience with C, Rust, JavaScript, Python, and Java as well.
+All of my job experience has been C++.
 
 Some frameworks I have experience with:
 - Vue.js

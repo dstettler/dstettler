@@ -6,7 +6,7 @@ up to date as best I can.
 
 Pronouns: He/Him 
 
-I mostly work in C#, C++, JavaScript, and Python, but I have experience with C and Java as well.
+I mostly work in C++, C#, JavaScript, and Python, but I have experience with C, Rust, and Java as well.
 
 Some frameworks I have experience with:
 - Vue.js

@@ -26,6 +26,8 @@ I've also done game dev work in Unreal Engine 4 and Unity as well, though those 
 You can reach out to me on the following places:
 - <a href="https://t.me/deevonstutter">Telegram</a>
 - <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a>
+- Discord: アニメプロフィール画像人 zero-zero_one eight (sorry, trying to hide from the profile crawlers)
+
 
 And of course, email, which is in my profile description.
 

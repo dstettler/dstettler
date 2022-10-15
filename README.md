@@ -6,10 +6,10 @@ up to date as best I can.
 
 Pronouns: He/Him 
 
-I primarily work in C++ and C#, but I have experience with C, Rust, JavaScript, Python, and Java as well.
-All of my job experience has been C++.
+I primarily work in C++, but I have experience with C#, Rust, JavaScript, Python, C, and Java as well.
+All of my real-world work experience has been C++.
 
-Some frameworks I have experience with:
+Some various UI frameworks I have experience with:
 - Vue.js
 - ReactJS
 - Quasar Framework

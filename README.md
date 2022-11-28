@@ -31,7 +31,7 @@ You can reach out to me on the following places:
 - Discord: アニメプロフィール画像人 zero-zero_one eight (sorry, trying to hide from the profile crawlers)
 
 
-And of course, email, which is in my profile description.
+And of course, email, which is in my profile description (and I prefer if I've not talked with you before! keeps the spambots out :P ).
 
 Hope you enjoy perusing my barren profile :)
 

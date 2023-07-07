@@ -23,7 +23,7 @@ I've also done game dev work in Unreal Engine 4/5 and Unity as well, though thos
 ## LINKS
 
 - <a href="https://gitlab.com/dstettler">GitLab</a>
-- [My personal university page that I'm using as a blog at the moment](https://www.cise.ufl.edu/~devon.stettler/)
+- <a href="https://dstet.me/">My Personal Little Homepage</a>
 
 You can reach out to me on the following places:
 - <a href="https://t.me/deevonstutter">Telegram</a>

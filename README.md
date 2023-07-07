@@ -28,6 +28,7 @@ I've also done game dev work in Unreal Engine 4/5 and Unity as well, though thos
 You can reach out to me on the following places:
 - <a href="https://t.me/deevonstutter">Telegram</a>
 - <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a>
+- @devon:msg.dstet.me via Matrix or you can join my welcome mat <a href="https://matrix.to/#/#welcome-mat:msg.dstet.me">here</a>
 - Discord: deevonstutter (ugh yes they rolled out the username update to me)
 
 

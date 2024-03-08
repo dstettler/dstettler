@@ -33,7 +33,7 @@ You can reach out to me on the following places:
 
 And of course, email, which is in my profile description (and I prefer if I've not talked with you before! keeps the spambots out :P ).
 
-Hope you enjoy perusing my barren profile :)
+Hope you enjoy perusing my profile :)
 
 <a href="https://raw.githubusercontent.com/dstettler/dstettler/master/F292BCFDBC8C87D4B4E24220285E007E82A5CE8C.asc">My (old) PGP Key</a>
 

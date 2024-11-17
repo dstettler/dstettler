@@ -35,7 +35,5 @@ And of course, email, which is in my profile description (and I prefer if I've n
 
 Hope you enjoy perusing my profile :)
 
-<a href="https://raw.githubusercontent.com/dstettler/dstettler/master/F292BCFDBC8C87D4B4E24220285E007E82A5CE8C.asc">My (old) PGP Key</a>
-
-<a href="https://raw.githubusercontent.com/dstettler/dstettler/master/Devon_0x53C10974_public.asc">My New PGP Key</a>
+<a href="https://raw.githubusercontent.com/dstettler/dstettler/master/615AD31229F607139D1164694F8455C1CA58FD53.gpg">My PGP Key</a>
 </span>

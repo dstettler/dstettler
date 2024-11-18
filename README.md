@@ -6,15 +6,8 @@ up to date as best I can.
 
 Pronouns: He/Him 
 
-I primarily work in C++, but I have experience with C#, Rust, JavaScript, Python, C, and Java as well.
-All of my real-world work experience has been C++, Python, and C#.
-
-Some various UI frameworks I have experience with:
-- Vue.js
-- ReactJS
-- Quasar Framework
-- Qt
-- GTK
+I primarily work in C++, but I have experience with C#, Rust, JavaScript, Python, C, Golang, and Java as well.
+All of my work experience has been C++, Python, and C#.
 
 I've also done game dev work in Unreal Engine 4/5 and Unity as well, though those projects are less relevant here.
 

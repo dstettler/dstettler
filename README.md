@@ -28,5 +28,5 @@ And of course, email, which is in my profile description (and I prefer if I've n
 
 Hope you enjoy perusing my profile :)
 
-<a href="https://raw.githubusercontent.com/dstettler/dstettler/master/615AD31229F607139D1164694F8455C1CA58FD53.gpg">My PGP Key</a>
+<a href="https://raw.githubusercontent.com/dstettler/dstettler/master/0775079AF02692C4E72459B9A5BA234C488A1B87.pub.gpg">My PGP Key</a>
 </span>

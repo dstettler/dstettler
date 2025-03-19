@@ -18,10 +18,10 @@ I've also done game dev work in Unreal Engine 4/5 and Unity as well, though thos
 - <a href="https://gitlab.com/dstettler">GitLab</a>
 - <a href="https://dstet.me/">My Personal Little Homepage</a>
 
-You can reach out to me on the following places:
+You can reach out to me via IM on the following places:
 - <a href="https://t.me/deeevon">Telegram</a>
-- <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a>
-- @devon:msg.dstet.me via Matrix or you can join my welcome mat <a href="https://matrix.to/#/#welcome-mat:msg.dstet.me">here</a>
+<!-- - <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a> -->
+<!-- - @devon:msg.dstet.me via Matrix or you can join my welcome mat <a href="https://matrix.to/#/#welcome-mat:msg.dstet.me">here</a> -->
 
 
 And of course, email, which is in my profile description (and I prefer if I've not talked with you before! keeps the spambots out :P ).

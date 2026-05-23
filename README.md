@@ -1,8 +1,7 @@
   <h3> Hi there 👋</h3>
 
-I'm Devon, a software engineer/programmer/sometimes game dev studying Computer Science at the University of Florida.
-I don't usually push much of my stuff out publicly, but I have some interesting stuff in the works so I'll try to keep this
-up to date as best I can.
+I'm Devon, a software engineer with an MS in Computer Science from the University of Florida.
+I don't usually push much of my stuff out publicly, but I'll try to keep these up to date as best I can with anything interesting that I make.
 
 Pronouns: He/Him 
 
@@ -18,13 +17,8 @@ I've also done game dev work in Unreal Engine 4/5 and Unity as well, though thos
 - <a href="https://gitlab.com/dstettler">GitLab</a>
 - <a href="https://dstet.me/">My Personal Little Homepage</a>
 
-You can reach out to me via IM on the following places:
-- <a href="https://t.me/deeevon">Telegram</a>
-<!-- - <a href="https://open.kakao.com/me/dstettler">KakaoTalk</a> -->
-<!-- - @devon:msg.dstet.me via Matrix or you can join my welcome mat <a href="https://matrix.to/#/#welcome-mat:msg.dstet.me">here</a> -->
-
-
-And of course, email, which is in my profile description (and I prefer if I've not talked with you before! keeps the spambots out :P ).
+Feel free to email me, or message me at `@devon:dstet.me` via Matrix.
+Just be sure to introduce yourself!
 
 Hope you enjoy perusing my profile :)
 
